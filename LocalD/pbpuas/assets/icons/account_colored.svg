@@ -1,9 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="18" viewBox="0 0 16 18">
-  <g id="Contents" transform="translate(-91 -3)">
-    <g id="Group_32" data-name="Group 32">
-      <line id="Line_124" data-name="Line 124" x2="1" transform="translate(96 17)" fill="none" stroke="#3366CC" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path id="Rectangle_44" data-name="Rectangle 44" d="M4,0h6a4,4,0,0,1,4,4V6a0,0,0,0,1,0,0H0A0,0,0,0,1,0,6V4A4,4,0,0,1,4,0Z" transform="translate(92 14)" fill="none" stroke="#3366CC" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-      <path id="Path_67" data-name="Path 67" d="M100.336,10.109l-1.059.706a.5.5,0,0,1-.554,0l-1.059-.706A3.736,3.736,0,0,1,96,7h0a3,3,0,0,1,3-3h0a3,3,0,0,1,3,3h0A3.736,3.736,0,0,1,100.336,10.109Z" fill="none" stroke="#3366CC" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-    </g>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="16px" height="16px" viewBox="0 0 16 16" enable-background="new 0 0 16 16" xml:space="preserve">  <image id="image0" width="16" height="16" x="0" y="0"
+    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAWlBMVEUAAABMq4NMroRMrYRO
+r4VLrYRIp4BLrIRKqoVMrINLrYVAn4BNrYRIr4BQr4BLq4RMrINMrIRNrYVNrYVMrYVKqoVMq4NM
+rYNNr4RLrYRMrIRLrYRMrYT///8LFZ85AAAAHHRSTlMAQL/vb3Agz2BQ3xBwIBBwkL+f368wgICP
+j8+fZGte7gAAAAFiS0dEHesDcZEAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAHdElNRQflDB0CMyrB
+ijpaAAAAfklEQVQY002P2xrCIAyDW3AHirjpzjPv/5xCZdXc8CX8NIWoiJ2HYzLdoGou3wJdHwQ+
+1uAOSUQPj6EGI1w5nngZofBkRALmhWcgXVPXb8tmtSzFS1tt3FF1aG888+UauMlYV5LdHudRh665
+/Q1nekN+nxKMdNo6ikxUKFMAPu5uCdm+/Cz8AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIxLTEyLTI4
+VDIzOjUxOjQyKzAzOjAwbhnvLwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMS0xMi0yOFQyMzo1MTo0
+MiswMzowMB9EV5MAAAAASUVORK5CYII=" />
 </svg>
